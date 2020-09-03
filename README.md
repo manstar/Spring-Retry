@@ -1,3 +1,7 @@
+![Java_8](https://img.shields.io/badge/java-v1.8-red?logo=java)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-v2.3.1-green.svg?logo=spring)
+![Spring_Boot_Retry](https://img.shields.io/badge/Spring_Retry-v1.1.5-green.svg?logo=spring)
+
 # Spring-Retry 라이브러리 실습
 
 ### 개요
